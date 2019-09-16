@@ -1,2 +1,2 @@
-# Cplusplus
-The C++ programming language is built using Dev-C ++ software and uses the TDM-GCC compiler.
+# C++
+You can download [Dev-C ++](https://sourceforge.net/projects/orwelldevcpp/) (including the compiler) and [read the documentation for C++](https://devdocs.io/cpp/).
